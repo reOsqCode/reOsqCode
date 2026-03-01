@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm reOs
 
 ### 👨‍💻 Backend / Full-Stack Developer
 
 📍 Istanbul, Turkey  
 🌐 Portfolio: https://example.com  
-✉️ Email: example@mail.com  
+✉️ Email: @mail.com  
 
 ---
 
@@ -20,10 +20,33 @@
 
 ## 🔗 Social Media
 
-[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=flat&logo=github)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/yourusername)  
+<p align="center">
 
+<a href="https://github.com/reOsqCode">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
+</a>
+
+<a href="https://instagram.com/omeryigitcana">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="65"/>
+</a>
+
+<a href="https://x.com/reOsQ_">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="65"/>
+</a>
+
+<a href="https://discord.gg/users/reosq">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="65"/>
+</a>
+
+<a href="https://twitch.tv/reOsq">
+  <img src="https://cdn.simpleicons.org/twitch/9146FF" width="65"/>
+</a>
+
+<a href="https://kick.com/reOsq">
+  <img src="https://cdn.simpleicons.org/kick/53FC18" width="65"/>
+</a>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -34,7 +57,7 @@
 
 ## 📄 About Me
 
-I am [Your Name], a passionate backend developer who enjoys building scalable and efficient systems.  
+I am reOs, a passionate backend developer who enjoys building scalable and efficient systems.  
 I focus on API development, microservices architecture, performance optimization, and contributing to open-source projects.
 
 ---
